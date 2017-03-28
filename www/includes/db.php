@@ -1,5 +1,6 @@
-<?php  # test.php sandbox
+<?php  
     
+    #define db connection constants.
     define('DBNAME', 'online_store');
     define('DBUSER', 'root');
     define('DBPASS', 'goodness');
